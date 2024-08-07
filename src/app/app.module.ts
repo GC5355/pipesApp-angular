@@ -23,8 +23,8 @@ registerLocaleData( localeFrCA );
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,
-    SharedModule
 
+    SharedModule
 ],
   providers: [
     {
